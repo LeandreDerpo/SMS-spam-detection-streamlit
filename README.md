@@ -1,6 +1,6 @@
 # About
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 This application provides an overview of the dataset that provides messages that contain labels of spam and ham.
 
